@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = christine.gouws@gmail.com
+	name = christine gouws
